@@ -1,4 +1,4 @@
-Sentiment Analysis Project
+#Sentiment Analysis Project
 
 This project implements a sentiment analysis pipeline that classifies tweets as positive or negative based on their content. The analysis is conducted using a Naive Bayes classifier, preprocessed with stopword filtering, and visualized for insights.
 
